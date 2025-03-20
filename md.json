@@ -1,5 +1,6 @@
 {
 "name": "KoniPool",
 "description": "Testnet Preview Pool for Koni",
-"ticker": "KSP"
+"ticker": "KSP",
+"homepage": "https://github.com/DominicHoang"
 }
